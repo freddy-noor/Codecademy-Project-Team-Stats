@@ -44,8 +44,8 @@ const team = {
   
   console.log(team.players)
   
-  team.addGame('Knicks', 100, 200);
-  team.addGame('Spartan', 70, 100);
-  team.addGame('Mets', 90, 80);
+  team.addGame('Alpha', 100, 200);
+  team.addGame('Delta', 70, 100);
+  team.addGame('Romeo', 90, 80);
   
   console.log(team.games)
